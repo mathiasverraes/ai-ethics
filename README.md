@@ -52,6 +52,8 @@ Here's a starting list of issue, off the top my head:
 - lack of accountability ("The AI did it!")
 - human workers being instructed by AI to do the work AI can't
 - workers are alienated from the product of their labour (cfr Marx, but for white collar work)
+- shadow IT: massive growth of custom tools not verified by engineers
+- lack of insight in critical systems -> production issues are harder to solve. Humans are only called upon to solve issues AI can't, but lack experience. 
 
 Issues I'm personally not worried about at this time, but open to be proven wrong:
 
